@@ -1,0 +1,143 @@
+{
+    "configVersion": 1,
+    "items": [
+        {
+            "itemId": "RollyJump",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1372395478?mt=8",
+                "androidPackageId": "cn.bahamut.game.hophophop",
+                "iOSUrlScheme": "btgame1372395478://",
+                "iOSAppId": "1372395478",
+                "iOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "videoLoop": false,
+            "gameName": "Rolly Jump",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RollyJump.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump.mp4",
+            "priority": 60,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "旋转跳跃",
+                "gameName_zh_Hans": "旋转跳跃"
+            }
+        },
+        {
+            "itemId": "RollingBallz",
+            "appLink": {
+                "url": "https://www.taptap.com/app/70412",
+                "androidPackageId": "cn.bahamut.game.rollingballz",
+                "iOSUrlScheme": "btgame1317518650://",
+                "iOSAppId": "1317518650",
+                "iOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "videoLoop": false,
+            "gameName": "Rolling Ballz",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RollingBallz.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollingBallz.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz.mp4",
+            "priority": 60,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "滚动天空球",
+                "gameName_zh_Hans": "滚动天空球"
+            }
+        },
+        {
+            "itemId": "TwistyRush",
+            "appLink": {
+                "url": "https://itunes.apple.com/app/id1370929810",
+                "androidPackageId": "cn.bahamut.game.colorballsroad",
+                "iOSUrlScheme": "btgame1370929810://",
+                "iOSAppId": "1370929810",
+                "iOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "videoLoop": false,
+            "gameName": "Twisty Rush",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_TwistyRush.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
+            "priority": 50,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "变色球大冒险",
+                "gameName_zh_Hans": "变色球大冒险"
+            }
+        },
+        {
+            "itemId": "TwistyRoller",
+            "appLink": {
+                "url": "https://www.taptap.com/app/79054",
+                "androidPackageId": "cn.bahamut.game.rollingcoaster",
+                "iOSUrlScheme": "btgame1341336378://",
+                "iOSAppId": "1341336378",
+                "iOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "videoLoop": false,
+            "gameName": "Twisty Ruller",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_TwistyRoller.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRoller.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4",
+            "priority": 20,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "蜿蜒绝地",
+                "gameName_zh_Hans": "蜿蜒绝地"
+            }
+        },
+        {
+            "itemId": "BinBalls",
+            "appLink": {
+                "url": "https://www.taptap.com/app/77780",
+                "androidPackageId": "cn.bahamut.game.binballs",
+                "iOSUrlScheme": "btgame1337445800://",
+                "iOSAppId": "1337445800",
+                "iOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "videoLoop": false,
+            "gameName": "Bin Balls",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_BinBalls.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/BinBalls.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4",
+            "priority": 65,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "双子球-极速变换",
+                "gameName_zh_Hans": "双子球-极速变换"
+            }
+        },
+        {
+            "itemId": "SkyJump",
+            "appLink": {
+                "url": "market://details?id=cn.bahamut.game.skyjump",
+                "androidPackageId": "cn.bahamut.game.skyjump",
+                "iOSUrlScheme": "btgame1358100456://",
+                "iOSAppId": "1358100456",
+                "iOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "videoLoop": false,
+            "gameName": "Sky Jump",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_SkyJump.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump.mp4",
+            "priority": 40,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "天空跳跳跳",
+                "gameName_zh_Hans": "天空跳跳跳"
+            }
+        }
+    ]
+}
