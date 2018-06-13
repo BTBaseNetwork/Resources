@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.2.2592000",
+            "enabled": true,
+            "desc": "Premium 1 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.2.5184000",
+            "enabled": true,
+            "desc": "Premium 2 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.2.7776000",
+            "enabled": false,
+            "desc": "Premium 3 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.2.15552000",
+            "enabled": true,
+            "desc": "Premium 6 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.2.31104000",
+            "enabled": true,
+            "desc": "Premium 12 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.3.2592000",
+            "enabled": false,
+            "desc": "Advanced 1 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.3.5184000",
+            "enabled": false,
+            "desc": "Advanced 2 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.3.7776000",
+            "enabled": false,
+            "desc": "Advanced 3 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.3.15552000",
+            "enabled": false,
+            "desc": "Advanced 6 month"
+        },
+        {
+            "id": "cn.bahamut.game.hophophop.iap.member.3.31104000",
+            "enabled": false,
+            "desc": "Advanced 12 month"
+        }
+    ]
+}
