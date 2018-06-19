@@ -1,6 +1,12 @@
 {
     "products": [
         {
+            "id": "mobi.btbase.SDKTest.norenewsub.iap.member.2.2592000",
+            "enabled": true,
+            "title": "1-month Premium",
+            "desc": "Subscribe 1-month Premium Member Service"
+        },
+        {
             "id": "mobi.btbase.SDKTest.iap.member.2.2592000",
             "enabled": true,
             "title": "1-month Premium",
