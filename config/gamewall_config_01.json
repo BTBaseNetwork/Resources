@@ -2,6 +2,27 @@
     "configVersion": 1,
     "items": [
         {
+            "itemId": "NUMS",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
+                "androidPackageId": "cn.bahamut.game.bullsandcows",
+                "iOSUrlScheme": "btgame1367037521://",
+                "iOSAppId": "1367037521",
+                "iOSPackageId": "cn.bahamut.game.bullsandcows"
+            },
+            "videoLoop": false,
+            "gameName": "NUMS",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_NUMS.jpg",
+            "priority": 65,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "趣味猜数字 - 锻炼逻辑与记忆",
+                "gameName_zh_Hans": "趣味猜数字 - 锻炼逻辑与记忆"
+            }
+        },
+        {
             "itemId": "RollyJump",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1372395478?mt=8",
