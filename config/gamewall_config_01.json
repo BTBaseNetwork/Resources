@@ -2,6 +2,27 @@
     "configVersion": 1,
     "items": [
         {
+            "itemId": "RainbowRun",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1287389141?mt=8",
+                "androidPackageId": "cn.bahamut.game.rainbowrunner",
+                "iOSUrlScheme": "btgame1287389141://",
+                "iOSAppId": "1287389141",
+                "iOSPackageId": "cn.bahamut.game.rainbowrunner"
+            },
+            "videoLoop": false,
+            "gameName": "Rainbow Run",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RainbowRun.jpg",
+            "priority": 65,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "彩虹酷跑",
+                "gameName_zh_Hans": "彩虹酷跑"
+            }
+        },
+        {
             "itemId": "NUMS",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
