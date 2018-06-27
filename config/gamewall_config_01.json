@@ -13,6 +13,7 @@
             "videoLoop": false,
             "gameName": "Rainbow Run",
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RainbowRun.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RainbowRun_L.mp4",
             "priority": 65,
             "videoType": 1,
             "labels": 0,
