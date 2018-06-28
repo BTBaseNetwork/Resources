@@ -2,27 +2,6 @@
     "configVersion": 1,
     "items": [
         {
-            "itemId": "DancingBall",
-            "appLink": {
-                "url": "https://itunes.apple.com/cn/app/id1330853868?mt=8",
-                "androidPackageId": "cn.bahamut.game.sinliner",
-                "iOSUrlScheme": "btgame1330853868://",
-                "iOSAppId": "1330853868",
-                "iOSPackageId": "cn.bahamut.game.sinliner"
-            },
-            "videoLoop": false,
-            "gameName": "Piano Ball",
-            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_DancingBall.jpg",
-            "priority": 65,
-            "videoType": 1,
-            "labels": 0,
-            "stars": 5,
-            "loc": {
-                "gameName_zh": "跃动钢琴线",
-                "gameName_zh_Hans": "跃动钢琴线"
-            }
-        },
-        {
             "itemId": "RainbowRun",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1287389141?mt=8",
@@ -45,24 +24,24 @@
             }
         },
         {
-            "itemId": "NUMS",
+            "itemId": "DancingBall",
             "appLink": {
-                "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
-                "androidPackageId": "cn.bahamut.game.bullsandcows",
-                "iOSUrlScheme": "btgame1367037521://",
-                "iOSAppId": "1367037521",
-                "iOSPackageId": "cn.bahamut.game.bullsandcows"
+                "url": "https://itunes.apple.com/cn/app/id1330853868?mt=8",
+                "androidPackageId": "cn.bahamut.game.sinliner",
+                "iOSUrlScheme": "btgame1330853868://",
+                "iOSAppId": "1330853868",
+                "iOSPackageId": "cn.bahamut.game.sinliner"
             },
             "videoLoop": false,
-            "gameName": "NUMS",
-            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_NUMS.jpg",
-            "priority": 55,
+            "gameName": "Piano Ball",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_DancingBall.jpg",
+            "priority": 65,
             "videoType": 1,
             "labels": 0,
             "stars": 5,
             "loc": {
-                "gameName_zh": "趣味猜数字",
-                "gameName_zh_Hans": "趣味猜数字"
+                "gameName_zh": "跃动钢琴线",
+                "gameName_zh_Hans": "跃动钢琴线"
             }
         },
         {
@@ -86,6 +65,27 @@
             "loc": {
                 "gameName_zh": "旋转跳跃",
                 "gameName_zh_Hans": "旋转跳跃"
+            }
+        },
+        {
+            "itemId": "NUMS",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
+                "androidPackageId": "cn.bahamut.game.bullsandcows",
+                "iOSUrlScheme": "btgame1367037521://",
+                "iOSAppId": "1367037521",
+                "iOSPackageId": "cn.bahamut.game.bullsandcows"
+            },
+            "videoLoop": false,
+            "gameName": "NUMS",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_NUMS.jpg",
+            "priority": 55,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "趣味猜数字",
+                "gameName_zh_Hans": "趣味猜数字"
             }
         },
         {
