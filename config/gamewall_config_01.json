@@ -2,6 +2,27 @@
     "configVersion": 1,
     "items": [
         {
+            "itemId": "DancingBall",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1330853868?mt=8",
+                "androidPackageId": "cn.bahamut.game.sinliner",
+                "iOSUrlScheme": "btgame1330853868://",
+                "iOSAppId": "1330853868",
+                "iOSPackageId": "cn.bahamut.game.sinliner"
+            },
+            "videoLoop": false,
+            "gameName": "Piano Ball",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_DancingBall.jpg",
+            "priority": 65,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "跃动钢琴线",
+                "gameName_zh_Hans": "跃动钢琴线"
+            }
+        },
+        {
             "itemId": "RainbowRun",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1287389141?mt=8",
@@ -14,7 +35,7 @@
             "gameName": "Rainbow Run",
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RainbowRun.jpg",
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RainbowRun_L.mp4",
-            "priority": 65,
+            "priority": 70,
             "videoType": 1,
             "labels": 0,
             "stars": 5,
@@ -35,7 +56,7 @@
             "videoLoop": false,
             "gameName": "NUMS",
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_NUMS.jpg",
-            "priority": 65,
+            "priority": 55,
             "videoType": 1,
             "labels": 0,
             "stars": 5,
