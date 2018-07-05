@@ -20,7 +20,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "彩虹酷跑",
-                "gameName_zh_Hans": "彩虹酷跑"
+                "gameName_zh_Hans": "彩虹酷跑",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//RainbowRun_L.mp4"
             }
         },
         {
@@ -42,7 +43,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "跃动钢琴线",
-                "gameName_zh_Hans": "跃动钢琴线"
+                "gameName_zh_Hans": "跃动钢琴线",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//DancingLine_L.mp4"
             }
         },
         {
@@ -65,7 +67,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "旋转跳跃",
-                "gameName_zh_Hans": "旋转跳跃"
+                "gameName_zh_Hans": "旋转跳跃",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//RollyJump_P.mp4"
             }
         },
         {
@@ -109,7 +112,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "滚动天空球",
-                "gameName_zh_Hans": "滚动天空球"
+                "gameName_zh_Hans": "滚动天空球",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//RollingBallz_P.mp4"
             }
         },
         {
@@ -201,7 +205,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "天空跳跳跳",
-                "gameName_zh_Hans": "天空跳跳跳"
+                "gameName_zh_Hans": "天空跳跳跳",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//SkyJump_P.mp4"
             }
         }
     ]
