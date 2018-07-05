@@ -35,7 +35,7 @@
             "videoLoop": false,
             "gameName": "Piano Ball",
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_DancingBall.jpg",
-            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/DancingLine_L.mp4",
+            "videoUrl": "http://pbdk979gr.bkt.clouddn.com/DancingLine_L.mp4",
             "priority": 65,
             "videoType": 1,
             "labels": 0,
