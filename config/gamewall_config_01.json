@@ -142,7 +142,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "变色球大冒险",
-                "gameName_zh_Hans": "变色球大冒险"
+                "gameName_zh_Hans": "变色球大冒险",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//TwistyRush.mp4"
             }
         },
         {
@@ -166,7 +167,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "蜿蜒绝地",
-                "gameName_zh_Hans": "蜿蜒绝地"
+                "gameName_zh_Hans": "蜿蜒绝地",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//TwistyRoller.mp4"
             }
         },
         {
@@ -190,7 +192,8 @@
             "stars": 5,
             "loc": {
                 "gameName_zh": "双子球-极速变换",
-                "gameName_zh_Hans": "双子球-极速变换"
+                "gameName_zh_Hans": "双子球-极速变换",
+                "videoUrl_zh_Hans": "http://btadsvideo.oss-cn-shenzhen.aliyuncs.com//BinBalls.mp4"
             }
         },
         {
