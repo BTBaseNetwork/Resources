@@ -18,7 +18,7 @@
             "priority": 70,
             "videoType": 2,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.6,
             "loc": {
                 "gameName_zh": "彩虹酷跑",
                 "gameName_zh_Hans": "彩虹酷跑",
@@ -42,7 +42,7 @@
             "priority": 65,
             "videoType": 2,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.8,
             "loc": {
                 "gameName_zh": "跃动钢琴线",
                 "gameName_zh_Hans": "跃动钢琴线",
@@ -67,7 +67,7 @@
             "priority": 60,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.4,
             "loc": {
                 "gameName_zh": "旋转跳跃",
                 "gameName_zh_Hans": "旋转跳跃",
@@ -114,7 +114,7 @@
             "priority": 60,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.4,
             "loc": {
                 "gameName_zh": "滚动天空球",
                 "gameName_zh_Hans": "滚动天空球",
@@ -139,7 +139,7 @@
             "priority": 50,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.5,
             "loc": {
                 "gameName_zh": "变色球大冒险",
                 "gameName_zh_Hans": "变色球大冒险",
@@ -164,7 +164,7 @@
             "priority": 20,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.5,
             "loc": {
                 "gameName_zh": "蜿蜒绝地",
                 "gameName_zh_Hans": "蜿蜒绝地",
@@ -189,7 +189,7 @@
             "priority": 65,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.5,
             "loc": {
                 "gameName_zh": "双子球-极速变换",
                 "gameName_zh_Hans": "双子球-极速变换",
@@ -214,7 +214,7 @@
             "priority": 40,
             "videoType": 1,
             "labels": 0,
-            "stars": 5,
+            "stars": 4.3,
             "loc": {
                 "gameName_zh": "天空跳跳跳",
                 "gameName_zh_Hans": "天空跳跳跳",
