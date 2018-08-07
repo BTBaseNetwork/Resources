@@ -75,6 +75,31 @@
             }
         },
         {
+            "itemId": "StairJump",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1361576249?mt=8",
+                "androidPackageId": "cn.bahamut.game.happybounce",
+                "iOSUrlScheme": "btgame1361576249://",
+                "iOSAppId": "1361576249",
+                "iOSPackageId": "cn.bahamut.game.stairsjump"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Stair Jump",
+            "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_StairJump.jpg",
+            "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/StairJump.jpg",
+            "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/StairJump_P.mp4",
+            "priority": 60,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.4,
+            "loc": {
+                "gameName_zh": "跳一跳阶梯版",
+                "gameName_zh_Hans": "跳一跳阶梯版",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/StairJump_P.mp4"
+            }
+        },
+        {
             "itemId": "NUMS",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
