@@ -66,7 +66,7 @@
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
             "priority": 60,
             "videoType": 1,
-            "labels": 0,
+            "labels": 1,
             "stars": 4.4,
             "loc": {
                 "gameName_zh": "旋转跳跃",
@@ -163,7 +163,7 @@
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
             "priority": 50,
             "videoType": 1,
-            "labels": 0,
+            "labels": 2,
             "stars": 4.5,
             "loc": {
                 "gameName_zh": "变色球大冒险",
