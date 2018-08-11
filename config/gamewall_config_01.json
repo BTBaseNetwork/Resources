@@ -112,7 +112,7 @@
             "closeVideo": true,
             "gameName": "NUMS",
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_NUMS.jpg",
-            "priority": 55,
+            "priority": 10,
             "videoType": 1,
             "labels": 0,
             "stars": 5,
