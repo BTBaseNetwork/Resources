@@ -22,7 +22,7 @@
             "loc": {
                 "gameName_zh": "彩虹酷跑",
                 "gameName_zh_Hans": "彩虹酷跑",
-                "xvideoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RainbowRun_L.mp4"
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RainbowRun_L.mp4"
             }
         },
         {
@@ -161,7 +161,7 @@
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_TwistyRush.jpg",
             "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/TwistyRush.jpg",
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4",
-            "priority": 76,
+            "priority": 72,
             "videoType": 1,
             "labels": 2,
             "stars": 4.5,
