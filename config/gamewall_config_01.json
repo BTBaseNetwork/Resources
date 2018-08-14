@@ -66,7 +66,7 @@
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
             "priority": 75,
             "videoType": 1,
-            "labels": 1,
+            "labels": 3,
             "stars": 4.4,
             "loc": {
                 "gameName_zh": "旋转跳跃",
@@ -236,7 +236,7 @@
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_SkyJump.jpg",
             "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/SkyJump.jpg",
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4",
-            "priority": 40,
+            "priority": 71,
             "videoType": 1,
             "labels": 0,
             "stars": 4.3,
