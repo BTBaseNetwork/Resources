@@ -64,7 +64,7 @@
             "iconUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/AppIcon_RollyJump.jpg",
             "coverUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsImage/RollyJump.jpg",
             "videoUrl": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4",
-            "priority": 60,
+            "priority": 75,
             "videoType": 1,
             "labels": 1,
             "stars": 4.4,
