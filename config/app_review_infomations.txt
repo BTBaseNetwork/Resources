@@ -9,7 +9,9 @@ Account:
 appreview arcodeok
 
 Note:
-1. Click the joystick icon on the main screen open the Gamer Account Page.
-2. Click the second tab which is the Member Tab.
+Locate the IAP products:
+
+1. Click the joystick icon on the home page to open the "Game Wall" page.
+2. Click the second tab button(Member) to open the "Member" page.
 3. Select a member subscription product( eg. 1-month Premium )
 4. Click the purchase button to subscribe.
