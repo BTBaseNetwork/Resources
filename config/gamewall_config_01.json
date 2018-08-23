@@ -100,6 +100,28 @@
             }
         },
         {
+            "itemId": "FallingBallz",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1360121002?mt=8",
+                "androidPackageId": "mobi.gstudio.game.blockvsfallingballz",
+                "iOSUrlScheme": "btgame1360121002://",
+                "iOSAppId": "1360121002",
+                "iOSPackageId": "mobi.gstudio.game.blockvsfallingballz"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "NUMS",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_FallingBallz.jpg",
+            "priority": 20,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "欢落球球-极速闪避",
+                "gameName_zh_Hans": "欢落球球-极速闪避"
+            }
+        },
+        {
             "itemId": "NUMS",
             "appLink": {
                 "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
