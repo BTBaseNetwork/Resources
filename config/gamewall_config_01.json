@@ -114,7 +114,7 @@
             "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_FallingBallz.jpg",
             "priority": 20,
             "videoType": 1,
-            "labels": 0,
+            "labels": 1,
             "stars": 5,
             "loc": {
                 "gameName_zh": "欢落球球-极速闪避",
