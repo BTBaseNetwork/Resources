@@ -1,10 +1,10 @@
 {
     "configVersion": 1,
-    "messsages": [
+    "messages": [
         {
             "sender": "NotificationCenter",
             "content": "Rolly Snake Release",
-            "ts": 1535430641
+            "ts": 1535430935
         }
     ],
     "items": [
