@@ -1,6 +1,6 @@
 {
     "configVersion": 1,
-    "messsages": [
+    "messages": [
         {
             "sender": "NotificationCenter",
             "content": "Rolly Snake Release",
