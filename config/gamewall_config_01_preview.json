@@ -24,7 +24,7 @@
             "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollySnake_P.mp4",
             "priority": 80,
             "videoType": 2,
-            "labels": 0,
+            "labels": 3,
             "stars": 5,
             "loc": {
                 "gameName_zh": "欢乐蛇蛇",

@@ -4,10 +4,34 @@
         {
             "sender": "NotificationCenter",
             "content": "Rolly Snake Release",
-            "ts": 1535434534
+            "ts": 1535498493
         }
     ],
     "items": [
+        {
+            "itemId": "RollySnake",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1415707597?mt=8",
+                "androidPackageId": "mobi.gstudio.game.snakevsrollyblock",
+                "iOSUrlScheme": "btgame1415707597://",
+                "iOSAppId": "1415707597",
+                "iOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Rolly Snake",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_RollySnake.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollySnake_P.mp4",
+            "priority": 80,
+            "videoType": 2,
+            "labels": 3,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "欢乐蛇蛇",
+                "gameName_zh_Hans": "欢乐蛇蛇",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollySnake_P.mp4"
+            }
+        },
         {
             "itemId": "RainbowRun",
             "appLink": {
