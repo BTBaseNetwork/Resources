@@ -1,0 +1,303 @@
+{
+    "configVersion": 1,
+    "messsages": [
+        {
+            "sender": "NotificationCenter",
+            "content": "Rolly Snake Release",
+            "ts": 1535428429
+        }
+    ],
+    "items": [
+        {
+            "itemId": "RollySnake",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1415707597?mt=8",
+                "androidPackageId": "mobi.gstudio.game.snakevsrollyblock",
+                "iOSUrlScheme": "btgame1415707597://",
+                "iOSAppId": "1415707597",
+                "iOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Rolly Snake",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_RollySnake.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollySnake_P.mp4",
+            "priority": 80,
+            "videoType": 2,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "欢乐蛇蛇",
+                "gameName_zh_Hans": "欢乐蛇蛇",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollySnake_P.mp4"
+            }
+        },
+        {
+            "itemId": "RainbowRun",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1287389141?mt=8",
+                "androidPackageId": "cn.bahamut.game.rainbowrunner",
+                "iOSUrlScheme": "btgame1287389141://",
+                "iOSAppId": "1287389141",
+                "iOSPackageId": "cn.bahamut.game.rainbowrunner"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Rainbow Run",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_RainbowRun.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/RainbowRun_L.mp4",
+            "priority": 70,
+            "videoType": 2,
+            "labels": 0,
+            "stars": 4.6,
+            "loc": {
+                "gameName_zh": "彩虹酷跑",
+                "gameName_zh_Hans": "彩虹酷跑",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RainbowRun_L.mp4"
+            }
+        },
+        {
+            "itemId": "DancingBall",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1330853868?mt=8",
+                "androidPackageId": "cn.bahamut.game.sinliner",
+                "iOSUrlScheme": "btgame1330853868://",
+                "iOSAppId": "1330853868",
+                "iOSPackageId": "cn.bahamut.game.sinliner"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Piano Ball",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_DancingBall.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/DancingLine_L.mp4",
+            "priority": 65,
+            "videoType": 2,
+            "labels": 0,
+            "stars": 4.8,
+            "loc": {
+                "gameName_zh": "跃动钢琴线",
+                "gameName_zh_Hans": "跃动钢琴线",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/DancingLine_L.mp4"
+            }
+        },
+        {
+            "itemId": "RollyJump",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1372395478?mt=8",
+                "androidPackageId": "cn.bahamut.game.hophophop",
+                "iOSUrlScheme": "btgame1372395478://",
+                "iOSAppId": "1372395478",
+                "iOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Rolly Jump",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_RollyJump.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/RollyJump.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollyJump_P.mp4",
+            "priority": 75,
+            "videoType": 1,
+            "labels": 3,
+            "stars": 4.4,
+            "loc": {
+                "gameName_zh": "旋转跳跃",
+                "gameName_zh_Hans": "旋转跳跃",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollyJump_P.mp4"
+            }
+        },
+        {
+            "itemId": "StairJump",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1361576249?mt=8",
+                "androidPackageId": "cn.bahamut.game.happybounce",
+                "iOSUrlScheme": "btgame1361576249://",
+                "iOSAppId": "1361576249",
+                "iOSPackageId": "cn.bahamut.game.stairsjump"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Stair Jump",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_StairJump.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/StairJump.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/StairJump_P.mp4",
+            "priority": 60,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.4,
+            "loc": {
+                "gameName_zh": "跳一跳阶梯版",
+                "gameName_zh_Hans": "跳一跳阶梯版",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/StairJump_P.mp4"
+            }
+        },
+        {
+            "itemId": "FallingBallz",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1360121002?mt=8",
+                "androidPackageId": "mobi.gstudio.game.blockvsfallingballz",
+                "iOSUrlScheme": "btgame1360121002://",
+                "iOSAppId": "1360121002",
+                "iOSPackageId": "mobi.gstudio.game.blockvsfallingballz"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "NUMS",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_FallingBallz.jpg",
+            "priority": 20,
+            "videoType": 1,
+            "labels": 1,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "欢落球球-极速闪避",
+                "gameName_zh_Hans": "欢落球球-极速闪避"
+            }
+        },
+        {
+            "itemId": "NUMS",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1367037521?mt=8",
+                "androidPackageId": "cn.bahamut.game.bullsandcows",
+                "iOSUrlScheme": "btgame1367037521://",
+                "iOSAppId": "1367037521",
+                "iOSPackageId": "cn.bahamut.game.bullsandcows"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "NUMS",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_NUMS.jpg",
+            "priority": 10,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "趣味猜数字",
+                "gameName_zh_Hans": "趣味猜数字"
+            }
+        },
+        {
+            "itemId": "RollingBallz",
+            "appLink": {
+                "url": "https://www.taptap.com/app/70412",
+                "androidPackageId": "cn.bahamut.game.rollingballz",
+                "iOSUrlScheme": "btgame1317518650://",
+                "iOSAppId": "1317518650",
+                "iOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Rolling Ballz",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_RollingBallz.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/RollingBallz.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollingBallz_P.mp4",
+            "priority": 70,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.4,
+            "loc": {
+                "gameName_zh": "滚动天空球",
+                "gameName_zh_Hans": "滚动天空球",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollingBallz_P.mp4"
+            }
+        },
+        {
+            "itemId": "TwistyRush",
+            "appLink": {
+                "url": "https://itunes.apple.com/app/id1370929810",
+                "androidPackageId": "cn.bahamut.game.colorballsroad",
+                "iOSUrlScheme": "btgame1370929810://",
+                "iOSAppId": "1370929810",
+                "iOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Twisty Rush",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_TwistyRush.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRush.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRush.mp4",
+            "priority": 72,
+            "videoType": 1,
+            "labels": 2,
+            "stars": 4.5,
+            "loc": {
+                "gameName_zh": "变色球大冒险",
+                "gameName_zh_Hans": "变色球大冒险",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/TwistyRush.mp4"
+            }
+        },
+        {
+            "itemId": "TwistyRoller",
+            "appLink": {
+                "url": "https://www.taptap.com/app/79054",
+                "androidPackageId": "cn.bahamut.game.rollingcoaster",
+                "iOSUrlScheme": "btgame1341336378://",
+                "iOSAppId": "1341336378",
+                "iOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Twisty Ruller",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_TwistyRoller.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/TwistyRoller.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/TwistyRoller.mp4",
+            "priority": 20,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.5,
+            "loc": {
+                "gameName_zh": "蜿蜒绝地",
+                "gameName_zh_Hans": "蜿蜒绝地",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/TwistyRoller.mp4"
+            }
+        },
+        {
+            "itemId": "BinBalls",
+            "appLink": {
+                "url": "https://www.taptap.com/app/77780",
+                "androidPackageId": "cn.bahamut.game.binballs",
+                "iOSUrlScheme": "btgame1337445800://",
+                "iOSAppId": "1337445800",
+                "iOSPackageId": "cn.bahamut.game.binballs"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Bin Balls",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_BinBalls.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/BinBalls.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/BinBalls.mp4",
+            "priority": 65,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.5,
+            "loc": {
+                "gameName_zh": "双子球-极速变换",
+                "gameName_zh_Hans": "双子球-极速变换",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/BinBalls.mp4"
+            }
+        },
+        {
+            "itemId": "SkyJump",
+            "appLink": {
+                "url": "market://details?id=cn.bahamut.game.skyjump",
+                "androidPackageId": "cn.bahamut.game.skyjump",
+                "iOSUrlScheme": "btgame1358100456://",
+                "iOSAppId": "1358100456",
+                "iOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Sky Jump",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_SkyJump.jpg",
+            "coverUrl": "http://imgassets.qncdn.btbase.mobi/SkyJump.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/SkyJump_P.mp4",
+            "priority": 71,
+            "videoType": 1,
+            "labels": 0,
+            "stars": 4.3,
+            "loc": {
+                "gameName_zh": "天空跳跳跳",
+                "gameName_zh_Hans": "天空跳跳跳",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/SkyJump_P.mp4"
+            }
+        }
+    ]
+}
