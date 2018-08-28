@@ -1,5 +1,12 @@
 {
     "configVersion": 1,
+    "messsages": [
+        {
+            "sender": "NotificationCenter",
+            "content": "Rolly Snake Release",
+            "ts": 1535434203
+        }
+    ],
     "items": [
         {
             "itemId": "RainbowRun",
