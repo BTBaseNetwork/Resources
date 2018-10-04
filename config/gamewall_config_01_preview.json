@@ -3,11 +3,40 @@
     "messages": [
         {
             "sender": "NotificationCenter",
+            "content": "Moto of Dune Release",
+            "ts": 1538701200
+        },
+        {
+            "sender": "NotificationCenter",
             "content": "Rolly Snake Release",
             "ts": 1535431363
         }
     ],
     "items": [
+        {
+            "itemId": "MotoFly",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "androidPackageId": "mobi.gstudio.game.motofly",
+                "iOSUrlScheme": "btgame1436266966://",
+                "iOSAppId": "1436266966",
+                "iOSPackageId": "mobi.gstudio.game.motofly"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Moto of Dune",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_MotoFly.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/MotoFly_P.mp4",
+            "priority": 81,
+            "videoType": 2,
+            "labels": 1,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "荒漠骑手",
+                "gameName_zh_Hans": "荒漠骑手",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/MotoFly_P.mp4"
+            }
+        },
         {
             "itemId": "RollySnake",
             "appLink": {
@@ -24,7 +53,7 @@
             "videoUrl": "http://videoassets.qncdn.btbase.mobi/RollySnake_P.mp4",
             "priority": 80,
             "videoType": 2,
-            "labels": 4,
+            "labels": 2,
             "stars": 5,
             "loc": {
                 "gameName_zh": "欢乐蛇蛇",
@@ -48,7 +77,7 @@
             "videoUrl": "http://videoassets.qncdn.btbase.mobi/RainbowRun_L.mp4",
             "priority": 70,
             "videoType": 2,
-            "labels": 0,
+            "labels": 4,
             "stars": 4.6,
             "loc": {
                 "gameName_zh": "彩虹酷跑",
