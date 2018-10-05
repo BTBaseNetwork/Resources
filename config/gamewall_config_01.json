@@ -29,7 +29,7 @@
             "videoUrl": "http://videoassets.qncdn.btbase.mobi/MotoFly_P.mp4",
             "priority": 81,
             "videoType": 2,
-            "labels": 2,
+            "labels": 1,
             "stars": 5,
             "loc": {
                 "gameName_zh": "荒漠骑手",
