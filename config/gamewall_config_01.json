@@ -85,8 +85,8 @@
             "labels": 1,
             "stars": 5,
             "loc": {
-                "gameName_zh": "欢乐蛇蛇",
-                "gameName_zh_Hans": "欢乐蛇蛇",
+                "gameName_zh": "欢乐贪吃蛇",
+                "gameName_zh_Hans": "欢乐贪吃蛇",
                 "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollySnake_P.mp4"
             }
         },
