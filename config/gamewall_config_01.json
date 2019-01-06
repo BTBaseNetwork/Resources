@@ -3,6 +3,11 @@
     "messages": [
         {
             "sender": "NotificationCenter",
+            "content": "Wild Chaser Release",
+            "ts": 1546744041
+        },
+        {
+            "sender": "NotificationCenter",
             "content": "Moto of Dune Release",
             "ts": 1538701200
         },
@@ -13,6 +18,30 @@
         }
     ],
     "items": [
+        {
+            "itemId": "WildChaser",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1415708282?mt=8",
+                "androidPackageId": "mobi.gstudio.game.slimeanimal",
+                "iOSUrlScheme": "btgame1415708282://",
+                "iOSAppId": "1415708282",
+                "iOSPackageId": "mobi.gstudio.game.slimeanimal"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Wild Chaser",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_WildChaser.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/WildChaser_P.mp4",
+            "priority": 91,
+            "videoType": 2,
+            "labels": 1,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "荒野角逐",
+                "gameName_zh_Hans": "荒野角逐",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/WildChaser_P.mp4"
+            }
+        },
         {
             "itemId": "MotoFly",
             "appLink": {
