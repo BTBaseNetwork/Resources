@@ -1,7 +1,7 @@
 {
     "products": [
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.2.2592000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.2.2592000",
             "enabled": true,
             "title": "1-month Premium",
             "desc": "Subscribe 1-month Premium Member Service",
@@ -11,7 +11,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.2.5184000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.2.5184000",
             "enabled": true,
             "title": "2-month Premium",
             "desc": "Subscribe 2-month Premium Member Service",
@@ -21,7 +21,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.2.7776000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.2.7776000",
             "enabled": true,
             "title": "3-month Premium",
             "desc": "Subscribe 3-month Premium Member Service",
@@ -31,7 +31,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.2.15552000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.2.15552000",
             "enabled": true,
             "title": "6-month Premium",
             "desc": "Subscribe 6-month Premium Member Service",
@@ -41,7 +41,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.2.31104000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.2.31104000",
             "enabled": true,
             "title": "12-month Premium",
             "desc": "Subscribe 12-month Premium Member Service",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.3.2592000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.3.2592000",
             "enabled": false,
             "title": "1-month Advanced",
             "desc": "Subscribe 1-month Advanced Member Service",
@@ -61,7 +61,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.3.5184000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.3.5184000",
             "enabled": false,
             "title": "2-month Advanced",
             "desc": "Subscribe 2-month Advanced Member Service",
@@ -71,7 +71,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.3.7776000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.3.7776000",
             "enabled": false,
             "title": "3-month Advanced",
             "desc": "Subscribe 3-month Advanced Member Service",
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.3.15552000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.3.15552000",
             "enabled": false,
             "title": "6-month Advanced",
             "desc": "Subscribe 6-month Advanced Member Service",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "id": "mobi.gstudio.game.slimeanimal.iap.member.3.31104000",
+            "id": "mobi.gstudio.game.slimeanimal.noautosub.iap.member.3.31104000",
             "enabled": false,
             "title": "12-month Advanced",
             "desc": "Subscribe 12-month Advanced Member Service",
