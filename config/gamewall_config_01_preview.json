@@ -3,6 +3,11 @@
     "messages": [
         {
             "sender": "NotificationCenter",
+            "content": "Infected City Release",
+            "ts": 1546744041
+        },
+        {
+            "sender": "NotificationCenter",
             "content": "Wild Chaser Release",
             "ts": 1546744041
         },
@@ -18,6 +23,30 @@
         }
     ],
     "items": [
+        {
+            "itemId": "InfectedCity",
+            "appLink": {
+                "url": "https://itunes.apple.com/cn/app/id1415707157?mt=8",
+                "androidPackageId": "mobi.gstudio.game.ZombieCity",
+                "iOSUrlScheme": "btgame1415707157://",
+                "iOSAppId": "1415707157",
+                "iOSPackageId": "mobi.gstudio.game.ZombieCity"
+            },
+            "videoLoop": false,
+            "closeVideo": true,
+            "gameName": "Infected City",
+            "iconUrl": "http://imgassets.qncdn.btbase.mobi/AppIcon_InfectedCity.jpg",
+            "videoUrl": "http://videoassets.qncdn.btbase.mobi/InfectedCity_P.mp4",
+            "priority": 101,
+            "videoType": 2,
+            "labels": 1,
+            "stars": 5,
+            "loc": {
+                "gameName_zh": "全城感染",
+                "gameName_zh_Hans": "全城感染",
+                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/InfectedCity_P.mp4"
+            }
+        },
         {
             "itemId": "WildChaser",
             "appLink": {
