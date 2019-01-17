@@ -10,10 +10,12 @@ appreview arcodeok
 
 App Review Note:
 
+IAP Review Note:
 Issue of App Store Connect: 
 In some cases, if the status of the IAP is not the status of "In Review" , 
 then the app does not correctly obtain the title and description of the IAP, 
 and if this happens, please set the status of the IAP to "In Review" before review the IAP.
+
 
 
 Note:
