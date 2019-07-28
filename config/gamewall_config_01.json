@@ -44,7 +44,7 @@
             "loc": {
                 "gameName_zh": "全城感染",
                 "gameName_zh_Hans": "全城感染",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/InfectedCity_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/InfectedCity_P.mp4"
             }
         },
         {
@@ -68,7 +68,7 @@
             "loc": {
                 "gameName_zh": "荒野角逐",
                 "gameName_zh_Hans": "荒野角逐",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/WildChaser_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/WildChaser_P.mp4"
             }
         },
         {
@@ -92,7 +92,7 @@
             "loc": {
                 "gameName_zh": "荒漠骑手",
                 "gameName_zh_Hans": "荒漠骑手",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/MotoFly_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/MotoFly_P.mp4"
             }
         },
         {
@@ -116,7 +116,7 @@
             "loc": {
                 "gameName_zh": "欢乐贪吃蛇",
                 "gameName_zh_Hans": "欢乐贪吃蛇",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollySnake_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollySnake_P.mp4"
             }
         },
         {
@@ -140,7 +140,7 @@
             "loc": {
                 "gameName_zh": "彩虹酷跑",
                 "gameName_zh_Hans": "彩虹酷跑",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RainbowRun_L.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RainbowRun_L.mp4"
             }
         },
         {
@@ -164,7 +164,7 @@
             "loc": {
                 "gameName_zh": "跃动钢琴线",
                 "gameName_zh_Hans": "跃动钢琴线",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/DancingLine_L.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/DancingLine_L.mp4"
             }
         },
         {
@@ -189,7 +189,7 @@
             "loc": {
                 "gameName_zh": "旋转跳跃",
                 "gameName_zh_Hans": "旋转跳跃",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollyJump_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollyJump_P.mp4"
             }
         },
         {
@@ -214,7 +214,7 @@
             "loc": {
                 "gameName_zh": "跳一跳阶梯版",
                 "gameName_zh_Hans": "跳一跳阶梯版",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/StairJump_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/StairJump_P.mp4"
             }
         },
         {
@@ -283,7 +283,7 @@
             "loc": {
                 "gameName_zh": "滚动天空球",
                 "gameName_zh_Hans": "滚动天空球",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/RollingBallz_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/RollingBallz_P.mp4"
             }
         },
         {
@@ -308,7 +308,7 @@
             "loc": {
                 "gameName_zh": "变色球大冒险",
                 "gameName_zh_Hans": "变色球大冒险",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/TwistyRush.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRush.mp4"
             }
         },
         {
@@ -333,7 +333,7 @@
             "loc": {
                 "gameName_zh": "蜿蜒绝地",
                 "gameName_zh_Hans": "蜿蜒绝地",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/TwistyRoller.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/TwistyRoller.mp4"
             }
         },
         {
@@ -358,7 +358,7 @@
             "loc": {
                 "gameName_zh": "双子球-极速变换",
                 "gameName_zh_Hans": "双子球-极速变换",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/BinBalls.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/BinBalls.mp4"
             }
         },
         {
@@ -383,7 +383,7 @@
             "loc": {
                 "gameName_zh": "天空跳跳跳",
                 "gameName_zh_Hans": "天空跳跳跳",
-                "videoUrl_zh_Hans": "http://btadsvideo.osscdn.btbase.mobi/SkyJump_P.mp4"
+                "videoUrl_zh_Hans": "https://raw.githubusercontent.com/BTAds/AdsAssets/master/BTAdsVideo/SkyJump_P.mp4"
             }
         }
     ]
